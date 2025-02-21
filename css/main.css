@@ -4,11 +4,11 @@
 }
 @font-face {
   font-family: vazir;
-  src: url("../../../font/Vazir.ttf") format("truetype");
+  src: url("../font/Vazir.ttf") format("truetype");
 }
 @font-face {
   font-family: sans;
-  src: url("../../../font/Iranian\ Sans.ttf") format("truetype");
+  src: url("../font/Iranian\ Sans.ttf") format("truetype");
 }
 body {
   font-family: yekan;
@@ -50,7 +50,7 @@ html {
 header {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)),
-    url(../../../images/فک\ کنم\ خوبه2.png);
+    url(../images/فک\ کنم\ خوبه2.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -119,7 +119,7 @@ header {
 }
 
 .project{
-  background: url(../../../images/webb.jpg);
+  background: url(../images/webb.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -325,7 +325,7 @@ header {
 /* contact  */
 
 .contact{
-  background: linear-gradient(105deg, rgba(3, 14, 79, 0.8) 0%,rgba(122, 135, 228, 0.9) 50%,transparent 50%) , url(../../../images/3200146.jpg);
+  background: linear-gradient(105deg, rgba(3, 14, 79, 0.8) 0%,rgba(122, 135, 228, 0.9) 50%,transparent 50%) , url(../images/3200146.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
